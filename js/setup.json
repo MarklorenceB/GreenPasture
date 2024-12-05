@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "title": "Why Do Sermons Matter?",
+      "preTitle": "Overview",
+      "description": [
+        "Discussing the importance of sermons in building faith.",
+        "Understanding how messages can resonate with believers."
+      ],
+      "date": "Jan 30, 2025",
+      "location": "Central Hall, New York",
+      "image": "images/event-dynamic-1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Why Disappointment Can Be Good",
+      "preTitle": "Learning Growth",
+      "description": [
+        "Examining challenges in pastoral relationships.",
+        "Discovering growth through disappointments."
+      ],
+      "date": "Feb 10, 2025",
+      "location": "Grace Hall, Brooklyn",
+      "image": "images/event-dynamic-2.jpg"
+    }
+  ]
+  
